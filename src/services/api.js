@@ -1,0 +1,1 @@
+// import price from '../static_images/price.png';
